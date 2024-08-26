@@ -3,6 +3,8 @@
 ## hi
 ### hi
 
+[![crisFiep GitHub stats](https://github-readme-stats.vercel.app/api?username=crisFiep)](https://github.com/crisFiep/github-readme-stats)
+
 **pedrlope/pedrlope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
