@@ -3,6 +3,7 @@
 ## hi
 ### hi
 
+https://github.com/pedrlope/pedrlope/blob/main/senai-logo.png
 
 **pedrlope/pedrlope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
