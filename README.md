@@ -24,5 +24,6 @@ Here are some ideas to get you started:
  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&quot; />
 </div>
 
+![image](https://github.com/user-attachments/assets/45134940-19b7-4ccf-9e48-b16f5083ec6f)
 
 
