@@ -4,8 +4,6 @@ https://github.com/pedrlope/pedrlope/blob/main/senai-logo.png
 
 **pedrlope/pedrlope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ESTUDO
 - 🌱 I’m currently learning BANCO DE DADOS
 - 👯 I’m looking to collaborate on ...
