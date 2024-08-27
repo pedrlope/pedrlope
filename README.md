@@ -1,7 +1,4 @@
 ## Hi there 👋
-# hi
-## hi
-### hi
 
 https://github.com/pedrlope/pedrlope/blob/main/senai-logo.png
 
@@ -16,6 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about FÍSICA BASICA
 - 📫 How to reach me: ...
 - ⚡ Fun fact: HOBBY MARCENARIA
+
+[![pedrlope GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrlope)](https://github.com/pedrlope/github-readme-stats)
 
 
 <div style ="display: inline_block"><br/>
