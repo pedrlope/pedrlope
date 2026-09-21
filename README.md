@@ -7,10 +7,8 @@ https://github.com/pedrlope/pedrlope/blob/main/senai-logo.png
 - 🔭 I’m currently working on ESTUDO
 - 🌱 I’m currently learning BANCO DE DADOS
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with LIMPAR A TELA (C)
 - 💬 Ask me about FÍSICA BASICA
-- 📫 How to reach me: ...
-- ⚡ Fun fact: HOBBY MARCENARIA
+- ⚡ Fun fact: Um Anão tem um tempo de vida geralmente maior que o de um Gigante
 
 [![pedrlope GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrlope)](https://github.com/pedrlope/github-readme-stats)
 
