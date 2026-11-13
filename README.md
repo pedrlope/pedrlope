@@ -2,13 +2,10 @@
 
 https://github.com/pedrlope/pedrlope/blob/main/senai-logo.png
 
-**pedrlope/pedrlope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ESTUDO
-- 🌱 I’m currently learning BANCO DE DADOS
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about FÍSICA BASICA
-- ⚡ Fun fact: Um Anão tem um tempo de vida geralmente maior que o de um Gigante
+Experiencias:
+Curso tecnico no senai de desenvolvimento de sistemas
+Ensino medio focado em exatas e sistemas
+Aluno utfpr Engenharia Elétrica
 
 [![pedrlope GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrlope)](https://github.com/pedrlope/github-readme-stats)
 
